@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Your Name - Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>NARENDRA KUMAR ATCHUKOLA</h1>
+        <p>Aspiring Software Developer</p>
+    </header>
+
+    <section id="about">
+    <h2>About Me</h2>
+    <p>I am a passionate and motivated software engineering graduate seeking opportunities to contribute my skills to innovative projects. During my academic journey, I developed a strong foundation in software development and a keen interest in tackling complex problems through technology.</p>
+    
+    <p>My programming skills include proficiency in languages such as C, Python,HTML, CSS and JavaScript. I have hands-on experience with web development frameworks like React and Flask, and I'm eager to expand my knowledge further in both front-end and back-end technologies.</p>
+
+    <p>Throughout my coursework, I have gained practical experience in software design, algorithm development, and debugging. I am a quick learner and enjoy staying updated with the latest industry trends and emerging technologies.</p>
+
+    <p>My goal is to leverage my academic background and technical skills to contribute to a dynamic team and make meaningful contributions in the field of software engineering. I am excited about the opportunity to apply my knowledge in a real-world setting and continue learning and growing as a software developer.</p>
+</section>
+
+
+    
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>C</li>
+            <li>Python<li>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Django</li>
+            
+        </ul>
+    </section>
+   
+    <section id= "project">
+
+
+    
+
+    <section id="contact">
+        <h4>Contact:8688217082</h4>
+        <p>Email: atchuolanarendra@gmail.com</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/narendra-kumar-atchukola-952b4a2a2/"_blank">My LinkedIn Profile</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Narendra Kumar Atchukola . All rights reserved.</p>
+    </footer>
+</body>
+</html>
